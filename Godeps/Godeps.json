@@ -1,0 +1,112 @@
+{
+	"ImportPath": "github.com/brettm12345/prototype-imageproxy",
+	"GoVersion": "go1.13",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/disintegration/imaging",
+			"Comment": "v1.6.1",
+			"Rev": "9aab30e6aa535fe3337b489b76759ef97dfaf362"
+		},
+		{
+			"ImportPath": "github.com/google/btree",
+			"Comment": "v1.0.0-2-g2023616",
+			"Rev": "20236160a414454a9c64b6c8829381c6f4bddcaa"
+		},
+		{
+			"ImportPath": "github.com/gregjones/httpcache",
+			"Rev": "901d90724c7919163f472a9812253fb26761123d"
+		},
+		{
+			"ImportPath": "github.com/gregjones/httpcache/diskcache",
+			"Rev": "901d90724c7919163f472a9812253fb26761123d"
+		},
+		{
+			"ImportPath": "github.com/muesli/smartcrop",
+			"Comment": "v0.3.0-4-g3a2256e",
+			"Rev": "3a2256ec426beb55feaf8a255398c2534e01db06"
+		},
+		{
+			"ImportPath": "github.com/muesli/smartcrop/nfnt",
+			"Comment": "v0.3.0-4-g3a2256e",
+			"Rev": "3a2256ec426beb55feaf8a255398c2534e01db06"
+		},
+		{
+			"ImportPath": "github.com/muesli/smartcrop/options",
+			"Comment": "v0.3.0-4-g3a2256e",
+			"Rev": "3a2256ec426beb55feaf8a255398c2534e01db06"
+		},
+		{
+			"ImportPath": "github.com/nfnt/resize",
+			"Rev": "83c6a9932646f83e3267f353373d47347b6036b2"
+		},
+		{
+			"ImportPath": "github.com/peterbourgon/diskv",
+			"Comment": "v3.0.0",
+			"Rev": "0be1b92a6df0e4f5cb0a5d15fb7f643d0ad93ce6"
+		},
+		{
+			"ImportPath": "github.com/rwcarlsen/goexif/exif",
+			"Rev": "9e8deecbddbd4989a3e8d003684b783412b41e7a"
+		},
+		{
+			"ImportPath": "github.com/rwcarlsen/goexif/tiff",
+			"Rev": "9e8deecbddbd4989a3e8d003684b783412b41e7a"
+		},
+		{
+			"ImportPath": "golang.org/x/image/bmp",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/ccitt",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/draw",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/math/f64",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/riff",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/tiff",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/tiff/lzw",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/vp8",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/vp8l",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "golang.org/x/image/webp",
+			"Rev": "cb417be4ba39d22a85fafbeeb47bb89396d4d7b4"
+		},
+		{
+			"ImportPath": "willnorris.com/go/gifresize",
+			"Comment": "v1.0.0",
+			"Rev": "2593306bba2b31e43cf3d7b65d63489f356994b6"
+		},
+		{
+			"ImportPath": "willnorris.com/go/imageproxy",
+			"Comment": "v0.9.0-8-g785c5bd",
+			"Rev": "785c5bddd6f86c7f85e0bbd882eb893ff588dbec"
+		},
+		{
+			"ImportPath": "willnorris.com/go/imageproxy/third_party/http",
+			"Comment": "v0.9.0-8-g785c5bd",
+			"Rev": "785c5bddd6f86c7f85e0bbd882eb893ff588dbec"
+		}
+	]
+}
